@@ -41,6 +41,7 @@ file_list <- c(
   m1608 = "https://github.com/MEF-BDA503/pj18-KadirKemal/blob/master/Week2/odd_car_sales_data_agu_16.rds?raw=true",
   m1607 = "https://github.com/MEF-BDA503/pj18-ozenm/blob/master/odd_car_sales_data_jul_16.rds?raw=true",
   m1605 = "https://github.com/MEF-BDA503/pj18-aydemirbusra/blob/master/odd/data_may_16.rds?raw=true"
+  m1604 = "https://github.com/MEF-BDA503/pj18-yildizmust/blob/master/odd_retail_sales_2016_04.xlsx?raw=true"
 )
 
 # Create a tibble (a data frame)
